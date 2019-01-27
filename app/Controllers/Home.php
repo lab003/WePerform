@@ -8,11 +8,16 @@ class Home extends Controller
 	{
             return view('welcome_message');
 	}
-        
-        public function justin()
-        {
-            return view('justin');
-        }
+
+	public function jason()
+	{
+		return view('jason');
+	}
+	      
+  public function justin()
+  {
+      return view('justin');
+  }
 	//--------------------------------------------------------------------
 
 }
