@@ -9,6 +9,9 @@ class Home extends Controller
 		return view('welcome_message');
 	}
 
-	//--------------------------------------------------------------------
-
+	public function jason()
+	{
+		return view('jason');
+	}
+	
 }
