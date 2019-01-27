@@ -108,10 +108,9 @@
 				<h2>Contributions</h2>
 
 				<ul>
-					<li> <a href="/welcome/matex">Mate Parm</a></li>
-					<li> <a href="/welcome/matex">Mate Justin</a></li>
-					<li> <a href="/welcome/matex">Mate Metthew</a></li>
-					<li> <a href="/welcome/matex">Mate Jason</a></li>
+					<li> <a href="/WePerform/public/index.php/home/parm">Mate Parm</a></li>
+					<li> <a href="/WePerform/public/index.php/home/justin">Mate Justin</a></li>
+					<li> <a href="/WePerform/public/index.php/home/matthew">Mate Matthew</a></li>
 				</ul>  
 
 			</div>
