@@ -23,6 +23,11 @@ class Home extends Controller
   {
 	  return view('matthew');
   }
+  
+  public function parm() 
+	{
+		return view('parm');
+	}
 	//--------------------------------------------------------------------
 
 }
