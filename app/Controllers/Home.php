@@ -18,6 +18,11 @@ class Home extends Controller
   {
       return view('justin');
   }
+  
+  public function matthew()
+  {
+	  return view('matthew');
+  }
 	//--------------------------------------------------------------------
 
 }
